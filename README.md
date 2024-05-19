@@ -22,7 +22,7 @@ Passionate coder on a mission to turn caffeine into code! I love creating softwa
 
 
 ## 🌟 Achievements
-- Integrated LLMs into a live web application
+- Integrated LLMs into a news media website. Allowing users to ask any questions related to the content.
 - Published my first open source project [React Spotify Iframe](https://github.com/MohammedNagdy/react-spotify-iframe)
 
 ## 💪🏽 Working on
