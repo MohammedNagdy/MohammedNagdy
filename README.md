@@ -26,6 +26,7 @@ Passionate coder on a mission to turn caffeine into code! I love creating softwa
 - Published my first open source project [React Spotify Iframe](https://github.com/MohammedNagdy/react-spotify-iframe)
 
 ## 💪🏽 Working on
+- Integrating [Google Search](https://github.com/microsoft/autogen/pull/3049) into AutoGen an AI library
 - Building a custom network protocol in the application layer to allow for faster large file transfers
 - Integrating LLMs in data exploration platform
 
