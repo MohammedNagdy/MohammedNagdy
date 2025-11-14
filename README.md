@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Mohammed Nagdy
+# Hello World! I'm Mohammed Nagdy
 
 ## 🚀 About Me
 Passionate coder on a mission to turn caffeine into code! I love creating software that makes people's lives easier and more enjoyable. By day, I'm a Full Stack Developer and by night, a C++ developer in search of the perfect algorithm for my side projects.
